@@ -1,0 +1,19 @@
+{
+    "name": "jon5477/laravel-oidc-provider",
+    "description": "OpenID Connect Provider for Laravel 5",
+    "require": {
+        "laravel/passport": "~4.0"
+    },
+    "license": "LGPL3",
+    "authors": [
+        {
+            "name": "Jon Huang",
+            "email": "jon5477@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "laravel/passport": "~4.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
